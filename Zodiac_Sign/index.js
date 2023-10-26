@@ -24,7 +24,7 @@ const changeBackground=()=>{
             body.style.backgroundColor= "coral";
             break;
             case "Leo":
-            body.style.backgroundColor= "cyan";
+            body.style.backgroundColor= "white";
             break;
             case "Virgo":
             body.style.backgroundColor= "brown";
